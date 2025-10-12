@@ -10,7 +10,7 @@ Team: Dhanithya Beligolla (SE4050 — Deep Learning Project)
 
 - `PreprocessingData.ipynb` — Data loading, integrity checks, CLAHE enhancement, normalization, stratified splits, augmentation examples, class weights, and saving cleaned arrays.
 - `BrainTumor_CustomCNN.ipynb` — End‑to‑end pipeline: dataset download (Colab), robust loader, duplicate removal, stratified split, preprocessing, tf.data pipelines, Custom CNN training, evaluation, artifact saving.
-- `BrainTumor_CustomCNN1.ipynb` — Variant of the above with similar pipeline and optional mixed precision tweaks.
+
 
 Colab default paths used in the notebooks:
 - Project root: `/content/brain_tumor_project` (referred to as `proj_root`)
